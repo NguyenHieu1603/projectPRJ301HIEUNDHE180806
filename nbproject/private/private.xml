@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/lab211/AssignmentPRJ301.HieuNDHE180806_1/web/productionplan/create.jsp</file>
+            <file>file:/C:/lab211/AssignmentPRJ301.HieuNDHE180806_1/src/java/dal/assignment/UserDBContext.java</file>
+            <file>file:/C:/lab211/AssignmentPRJ301.HieuNDHE180806_1/src/java/dal/assignment/DepartmentDBContext.java</file>
+            <file>file:/C:/lab211/AssignmentPRJ301.HieuNDHE180806_1/src/java/controller/productionplan/ProductionPlanCreateController.java</file>
+            <file>file:/C:/lab211/AssignmentPRJ301.HieuNDHE180806_1/src/java/controller/productionplan/ProductionPlanListController.java</file>
+            <file>file:/C:/lab211/AssignmentPRJ301.HieuNDHE180806_1/src/java/dal/assignment/PlanDBContext.java</file>
+            <file>file:/C:/lab211/AssignmentPRJ301.HieuNDHE180806_1/src/java/dal/assignment/ProductDBContext.java</file>
+            <file>file:/C:/lab211/AssignmentPRJ301.HieuNDHE180806_1/src/java/dal/assignment/DBContext.java</file>
+            <file>file:/C:/lab211/AssignmentPRJ301.HieuNDHE180806_1/web/productionplan/list.jsp</file>
+            <file>file:/C:/lab211/AssignmentPRJ301.HieuNDHE180806_1/src/java/controller/productionplan/PlanDetail.java</file>
+            <file>file:/C:/lab211/AssignmentPRJ301.HieuNDHE180806_1/src/java/entity/assignment/PlanCampain.java</file>
+        </group>
+    </open-files>
+</project-private>
